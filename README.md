@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/flaviovast">
-    <img src="https://readme-typing-svg.demolab.com/?lines=From+export+operations+to+source+code;Four+languages%2C+one+stack;HTML%2C+CSS+and+vanilla+JavaScript;Spec+first%2C+then+build&font=Fira%20Code&size=20&color=16A34A&center=true&vCenter=true&width=520&height=45&pause=900" alt="From export operations to source code" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=From+export+operations+to+source+code;Four+languages%2C+one+stack;HTML%2C+CSS+and+JavaScript;Spec+first%2C+then+build&font=Fira%20Code&size=20&color=16A34A&center=true&vCenter=true&width=520&height=45&pause=900" alt="From export operations to source code" />
   </a>
 </p>
 
