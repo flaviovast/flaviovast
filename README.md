@@ -66,4 +66,10 @@ The other half is people. Coordinating freight forwarders, carriers and internal
 ![English](https://img.shields.io/badge/English-Proficient-16a34a?style=flat-square)
 ![Italian](https://img.shields.io/badge/Italian-Intermediate-4ade80?style=flat-square)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flaviovast/flaviovast/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flaviovast/flaviovast/output/snake.svg" />
+  <img alt="Contribution graph snake animation" src="https://raw.githubusercontent.com/flaviovast/flaviovast/output/snake.svg" />
+</picture>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16a34a,100:1f6f4a&height=110&section=footer" alt="" />
