@@ -1,16 +1,16 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6f4a,100:16a34a&height=180&section=header&text=Flavio%20Vazquez%20Alvarez&fontColor=ffffff&fontSize=42&fontAlignY=34&desc=Front-end%20developer%20in%20the%20making&descAlignY=54&descSize=18" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4a5fd0,100:768ae3&height=180&section=header&text=Flavio%20Vazquez%20Alvarez&fontColor=ffffff&fontSize=42&fontAlignY=34&desc=Front-end%20developer%20in%20the%20making&descAlignY=54&descSize=18" alt="" />
 
 <p align="center">
   <a href="https://github.com/flaviovast">
-    <img src="https://readme-typing-svg.demolab.com/?lines=From+export+operations+to+source+code;Four+languages%2C+one+stack;HTML%2C+CSS+and+JavaScript;Spec+first%2C+then+build&font=Fira%20Code&size=20&color=16A34A&center=true&vCenter=true&width=520&height=45&pause=900" alt="From export operations to source code" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=From+export+operations+to+source+code;Four+languages%2C+one+stack;HTML%2C+CSS+and+JavaScript;Spec+first%2C+then+build&font=Fira%20Code&size=20&color=768AE3&center=true&vCenter=true&width=520&height=45&pause=900" alt="From export operations to source code" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/flavio-vazquez-alvarez"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:flaviovast@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://img.shields.io/badge/Madrid,%20Spain-1f6f4a?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Madrid, Spain" />
-  <img src="https://komarev.com/ghpvc/?username=flaviovast&color=16a34a&style=for-the-badge&label=Profile+views" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Madrid,%20Spain-4a5fd0?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Madrid, Spain" />
+  <img src="https://komarev.com/ghpvc/?username=flaviovast&color=768ae3&style=for-the-badge&label=Profile+views" alt="Profile views" />
 </p>
 
 ## About me
@@ -58,11 +58,11 @@ I ended up bringing that same mindset into coding. Before I start building somet
 
 ## Languages
 
-![Spanish](https://img.shields.io/badge/Spanish-Native-1f6f4a?style=flat-square)
-![Portuguese](https://img.shields.io/badge/Portuguese-Native-1f6f4a?style=flat-square)
-![English](https://img.shields.io/badge/English-Proficient-16a34a?style=flat-square)
-![Italian](https://img.shields.io/badge/Italian-Intermediate-4ade80?style=flat-square)
+![Spanish](https://img.shields.io/badge/Spanish-Native-3446a8?style=flat-square)
+![Portuguese](https://img.shields.io/badge/Portuguese-Native-3446a8?style=flat-square)
+![English](https://img.shields.io/badge/English-Proficient-4a5fd0?style=flat-square)
+![Italian](https://img.shields.io/badge/Italian-Intermediate-5a6bd6?style=flat-square)
 
 ![Contribution graph snake animation](https://raw.githubusercontent.com/flaviovast/flaviovast/output/snake.svg)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16a34a,100:1f6f4a&height=110&section=footer" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:768ae3,100:76e3bd&height=110&section=footer" alt="" />
