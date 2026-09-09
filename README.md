@@ -19,15 +19,12 @@
 - Export Operations Coordinator since 2024, managing end-to-end international shipments, export documentation and customs compliance
 - BA in International Relations, Hawaii Pacific University, and an AA in Geography and Cartography, Santa Barbara City College
 - Spanish and Portuguese native, English proficient, Italian intermediate
-- Ask me about customs compliance, or about why a bill of lading and a CSS spec fail the same way when one field is wrong
 
 ## From global logistics to front-end
 
-Four years of export documentation teaches one thing above all: a single wrong field, one certificate of origin with a mismatched code, and a container sits at a port for a week. Nobody catches it for you.
+Four years of working with export documentation taught me that small details can cause the big problems.
 
-That is the habit I brought into code. I write the spec first, then build against it. Every repository below has a `PLAN.md` committed alongside the source, because deciding what to build before building it is the part of the job that logistics already taught me.
-
-The other half is people. Coordinating freight forwarders, carriers and internal teams across three languages is a job of keeping everyone aligned on the same detail at the same time, in writing, without ambiguity. That transfers to code review more directly than I expected.
+I ended up bringing that same mindset into coding. Before I start building something, I like to figure out what needs to be done first. I include a PLAN.md in each of the repositories. Planning things out before the code is a habit I picked up from logistics.
 
 ## What I am building
 
