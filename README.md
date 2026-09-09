@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/flaviovast">
-    <img src="https://readme-typing-svg.demolab.com/?lines=From+export+operations+to+source+code;HTML%2C+CSS+and+vanilla+JavaScript;Four+languages%2C+one+stack;Remote+since+2024%2C+and+used+to+it&font=Fira%20Code&size=20&color=16A34A&center=true&vCenter=true&width=520&height=45&pause=900" alt="From export operations to source code" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=From+export+operations+to+source+code;Four+languages%2C+one+stack;HTML%2C+CSS+and+vanilla+JavaScript;Spec+first%2C+then+build&font=Fira%20Code&size=20&color=16A34A&center=true&vCenter=true&width=520&height=45&pause=900" alt="From export operations to source code" />
   </a>
 </p>
 
@@ -16,7 +16,7 @@
 ## About me
 
 - Learning front-end development and building every project from a written spec before writing a single line of code
-- Export Operations Coordinator since 2024, running end-to-end international shipments **remotely** from Madrid for a trade consultancy in Salvador, Brazil
+- Export Operations Coordinator since 2024, managing end-to-end international shipments, export documentation and customs compliance
 - BA in International Relations, Hawaii Pacific University, and an AA in Geography and Cartography, Santa Barbara City College
 - Spanish and Portuguese native, English proficient, Italian intermediate
 - Ask me about customs compliance, or about why a bill of lading and a CSS spec fail the same way when one field is wrong
@@ -27,7 +27,7 @@ Four years of export documentation teaches one thing above all: a single wrong f
 
 That is the habit I brought into code. I write the spec first, then build against it. Every repository below has a `PLAN.md` committed alongside the source, because deciding what to build before building it is the part of the job that logistics already taught me.
 
-I have also worked remotely across a six hour time zone gap since 2024, coordinating with freight forwarders, carriers and internal teams in three languages. Async communication is not something I am going to have to get used to.
+The other half is people. Coordinating freight forwarders, carriers and internal teams across three languages is a job of keeping everyone aligned on the same detail at the same time, in writing, without ambiguity. That transfers to code review more directly than I expected.
 
 ## What I am building
 
@@ -50,11 +50,11 @@ I have also worked remotely across a six hour time zone gap since 2024, coordina
   <img height="42" width="42" alt="VS Code" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
 </p>
 
-**Learning next**
+**Learning right now**
 
 <p>
+  <img height="42" width="42" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
   <img height="38" width="38" alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
-  <img height="38" width="38" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
   <img height="38" width="38" alt="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
   <img height="38" width="38" alt="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
 </p>
